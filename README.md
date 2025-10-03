@@ -24,7 +24,7 @@
 
 ###
 
-<h2 align="left">Name is Murillo, graduated Computer Engineer currently working as a Full Stack Developer!</h2>
+<h2 align="left">Hey I'm Murillo, graduated Computer Engineer currently working as a Full Stack Developer!</h2>
 
 ###
 
