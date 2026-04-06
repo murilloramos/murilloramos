@@ -25,8 +25,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/solana/9945FF" height="40" alt="solana logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/anchor/FFA500" height="40" alt="anchor logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/solidity/363636" height="40" alt="solidity logo"  />
 </div>
 
