@@ -1,6 +1,6 @@
 ###
 
-<h2 align="left">Hey I'm Murillo, graduated Computer Engineer currently working as a Full Stack Developer!</h2>
+<h2 align="left">Computer Engineer - Full Stack Developer!</h2>
 
 ###
 
