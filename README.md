@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">I am from Brazil!<br><br>- Building systems for cross-border commerce, supply chains, payments, and tokenized trade assets.<br>- 🛠 Have been improving my software skills as a full stack developer so I work heavily with React, JS/TS and web development.<br></p>
+<p align="left">I am from Brazil!<br><br>- Building systems for cross-border commerce, supply chains, payments, and tokenized trade assets.<br>- Have been improving my software skills as a full stack developer so I work heavily with React, JS/TS and web development.<br></p>
 
 ###
 
